@@ -1,2 +1,5 @@
 # IDE files
 .idea
+
+# DLLs, binary and modules
+node_modules/
